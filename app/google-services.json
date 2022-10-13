@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800381658564",
+    "project_id": "foodengine-6a93e",
+    "storage_bucket": "foodengine-6a93e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800381658564:android:c71e9671bee97610807091",
+        "android_client_info": {
+          "package_name": "com.example.foodengine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800381658564-mp19375mpaoi9sp233c9rt8htaubup8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPi8jQSVY8rZAXo0IubnMojoPw8dCxfho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800381658564-mp19375mpaoi9sp233c9rt8htaubup8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

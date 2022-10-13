@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu"
+            android:icon="@drawable/ic_menu"
+            android:title="Menu" />
+
+        <item
+            android:id="@+id/nav_EveryDay"
+            android:icon="@drawable/ic_everyday"
+            android:title="EveryDay" />
+
+        <item
+            android:id="@+id/nav_offer"
+            android:icon="@drawable/ic_deals"
+            android:title="Offer" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:title="Services">
+
+            <menu>
+                <item
+                    android:id="@+id/nav_track"
+                    android:icon="@drawable/ic_track"
+                    android:title="Track Order" />
+
+                <item
+                    android:id="@+id/nav_history"
+                    android:icon="@drawable/ic_history"
+                    android:title="Order History" />
+
+                <item
+                    android:id="@+id/nav_favourite"
+                    android:icon="@drawable/ic_favourite"
+                    android:title="My Favourite" />
+            </menu>
+        </item>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:title="Customer">
+
+            <menu>
+                <item
+                    android:id="@+id/nav_terms"
+                    android:icon="@drawable/ic_terms"
+                    android:title="Terms &amp; Conditions" />
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_logout"
+                    android:title="logout" />
+
+            </menu>
+        </item>
+
+    </group>
+
+</menu>
